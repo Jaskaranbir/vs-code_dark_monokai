@@ -1,0 +1,15 @@
+{
+	"name": "theme-monokai-dark",
+	"version": "0.1.0",
+	"publisher": "vscode",
+	"engines": { "vscode": "*" },
+	"contributes": {
+		"themes": [
+			{
+				"label": "Monokai Dark",
+				"uiTheme": "vs-dark",
+				"path": "./themes/dark-monokai-color-theme.json"
+			}
+		]
+	}
+}
