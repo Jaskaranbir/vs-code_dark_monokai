@@ -5,8 +5,8 @@ Couldn't find a theme with enough darkness. I like darkness.
 I am too lazy to upload to market. So just use these settings to override default Monokai theme:
 
     "workbench.colorCustomizations": {
-        "list.activeSelectionBackground": "#1f1f1f67",
-        "list.focusBackground": "#29292979",
+        "list.activeSelectionBackground": "#68686867",
+        "list.focusBackground": "#6e6e6e79",
         "list.highlightForeground": "#c7c7c7",
         "editor.background": "#000000",
         "editor.selectionHighlightBackground": "#49494980",

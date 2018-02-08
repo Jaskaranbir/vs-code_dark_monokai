@@ -8,8 +8,8 @@
 	"type": "dark",
 	"colors": {
 		"dropdown.background": "#414339",
-		"list.activeSelectionBackground": "#1f1f1f67",
-		"list.focusBackground": "#29292979",
+		"list.activeSelectionBackground": "#68686867",
+		"list.focusBackground": "#6e6e6e79",
 		"list.inactiveSelectionBackground": "#414339",
 		"list.hoverBackground": "#272822",
 		"list.dropBackground": "#414339",
